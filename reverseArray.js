@@ -12,7 +12,7 @@ for(i = 0, j=size; i<=j; i++, j-- ){
   arr[j] = temp
 }
 
-console.log({after: arr});
+console.log(arr);
 
 
 let a = 10;

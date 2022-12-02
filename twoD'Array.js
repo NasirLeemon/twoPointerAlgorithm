@@ -23,3 +23,6 @@ function twoDifferentArr(arr1, arr2) {
 }
 
 console.log(twoDifferentArr([5, 10, 15, 20, 25, 30], [15, 23, 25, 30, 35]));
+
+// expected Output =[5, 10, 15,20, 23, 25, 30, 35]
+// but i got = [5, 10, 15,20, 23, 25, 30] 
